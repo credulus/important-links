@@ -1,2 +1,3 @@
 ## Links ##
-* https://github.com/credulus/important-links.git
+* https://gitter.im/
+  Tool for chatting with developers.
